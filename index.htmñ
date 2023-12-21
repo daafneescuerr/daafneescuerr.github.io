@@ -1,0 +1,16 @@
+<! DOCTYPE html>
+<html lang="es-ES">
+  <head>
+    <meta charset="utf-8">
+	<title>enlaces a redes sociales de dafne</title>
+  </head>
+  <body>
+    <h1>enlaces favoritos</h1>
+	<hr>
+	<p>. <a href="http://www.facebook.com/" target="_blank">Bing</a></p>
+	<p>. <a href="http://www.instagram.com" target="_blank">DuckDuckGo</a></p>
+	<p>. <a href="http://www.twiter.com/" target="_blank">Google</a></p>
+	<hr>
+	<p>Para volver pinchar  <a href="enlaces-favoritos.html" target="_blank">aqui</a></p>
+  </body>
+</html>
